@@ -1,5 +1,7 @@
 # horiseon-info
-This repo contains the HTML and CSS for the Horiseon homepage.
+This repo contains the HTML and styling for the Horiseon homepage.
+
+The page showcases this service's uses and benefits.
 
 ## Horiseon
 A service that helps with:
