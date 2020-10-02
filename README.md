@@ -1,5 +1,5 @@
-# code-refactor
-Refactoring a webpage for search engine optimization.
+# horiseon-info
+This repo contains the HTML and CSS for the Horiseon homepage.
 
 ## Horiseon
 A service that helps with:
