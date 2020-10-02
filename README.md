@@ -7,4 +7,4 @@ A service that helps with:
 - Online Reputation Management
 - Social Media Marketing
 
-**Homepage: [Horiseon](https://ducktrshessami.github.io/code-refactor/)**
+**Homepage: [Horiseon](https://ducktrshessami.github.io/horiseon-info/)**
